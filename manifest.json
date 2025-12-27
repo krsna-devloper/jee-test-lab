@@ -1,0 +1,26 @@
+
+{
+  "name": "JEE Test Lab",
+  "short_name": "JEE Lab",
+  "description": "Premium JEE test preparation and mental math practice.",
+  "icons": [
+    {
+      "src": "icons/app-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/app-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "categories": ["education", "productivity"]
+}
